@@ -33,7 +33,7 @@ export default function Component() {
               rel="noopener noreferrer"
               className="p-2 rounded-full hover:bg-gray-100 transition-colors duration-200"
             >
-              <img src="/images/tiktok-icon.png" alt="TikTok" className="h-6 w-6" />
+              <img src="/images/tiktok-icon.png" alt="TikTok" className="h-8 w-8" />
               <span className="sr-only">TikTok</span>
             </Link>
             <Link
@@ -42,7 +42,7 @@ export default function Component() {
               rel="noopener noreferrer"
               className="p-2 rounded-full hover:bg-gray-100 transition-colors duration-200"
             >
-              <img src="/images/instagram-icon.png" alt="Instagram" className="h-6 w-6" />
+              <img src="/images/instagram-icon.png" alt="Instagram" className="h-8 w-8" />
               <span className="sr-only">Instagram</span>
             </Link>
           </div>
@@ -214,7 +214,7 @@ export default function Component() {
             </Link>
             <p className="text-gray-400 text-lg">Replies within 24 hours</p>
           </div>
-          <p className="text-gray-400 text-sm pt-4">Custom packages available upon request.</p>
+          <p className="text-gray-400 text-sm pt-4">© 2025 Collin Bexten. All rights reserved.</p>
         </div>
       </footer>
     </div>
