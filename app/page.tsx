@@ -55,17 +55,17 @@ export default function Component() {
             <h2 className="text-3xl md:text-4xl font-bold tracking-tight text-gray-900 mb-6">About me</h2>
             <Card className="bg-gray-100 rounded-xl shadow-md p-6 md:p-8">
               <CardContent className="space-y-4 text-center">
-                <p className="text-lg md:text-xl text-gray-600 leading-relaxed">
+                <p className="text-base md:text-lg text-gray-600 leading-relaxed">
                   I've been creating content for over eight years, and for the past five years, I've been doing it full
                   time. I started by growing my own personal accounts, posting consistently and learning what makes
                   content resonate. Before ever stepping into brand work, I built a combined reach of over 2 billion
                   views across my own content and the creator pages I helped manage.
                 </p>
-                <p className="text-lg md:text-xl text-gray-600 leading-relaxed">
+                <p className="text-base md:text-lg text-gray-600 leading-relaxed">
                   More recently, I've moved into the social media marketing side, focusing specifically on TikTok Shop,
                   where I've helped generate over 1.5 million dollars in revenue for brands in just 13 months. I
                   specialized in short-form video and social-first strategies that drive real results, working with over
-                  30 brands to produce content that builds trust and converts.
+                  30 brands to produce trust-building, conversion-focused content.
                 </p>
               </CardContent>
             </Card>
