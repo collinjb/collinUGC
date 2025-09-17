@@ -214,7 +214,7 @@ export default function Component() {
             </Link>
             <p className="text-gray-400 text-lg">Replies within 24 hours</p>
           </div>
-          <p className="text-gray-400 text-sm pt-4">© 2025 Collin Bexten. All rights reserved.</p>
+          <p className="text-gray-400 text-sm pt-4">© 2025 CollinJB LLC. All rights reserved.</p>
         </div>
       </footer>
     </div>
