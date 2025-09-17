@@ -23,7 +23,7 @@ export default function Component() {
             <AvatarImage src="/images/collin-bexten-avatar-v3.png" alt="Collin Bexten" />
           </Avatar>
           <div className="space-y-2">
-            <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-gray-900">Collin Bexten</h1>
+            <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-gray-900">Collin B.</h1>
             <p className="text-xl md:text-2xl text-gray-600">TikTok Shop UGC Creator • Sales-Driven Video Content</p>
           </div>
           <div className="flex justify-center space-x-4 pt-2">
