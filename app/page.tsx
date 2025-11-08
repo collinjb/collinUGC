@@ -86,7 +86,7 @@ export default function Component() {
                 <CardContent className="flex flex-col flex-grow justify-between text-center">
                   <div className="space-y-2 mb-6">
                     <p className="text-lg text-gray-700">10 Videos / Month</p>
-                    <p className="text-3xl font-bold text-blue-600">$400</p>
+                    <p className="text-3xl font-bold text-blue-600">$500</p>
                   </div>
                   <Link
                     href="mailto:collinjbbiz@gmail.com?subject=Interested%20in%20the%20Starter%20Plan%20-%20TikTok%20Shop"
@@ -111,7 +111,7 @@ export default function Component() {
                 <CardContent className="flex flex-col flex-grow justify-between text-center">
                   <div className="space-y-2 mb-6">
                     <p className="text-lg text-gray-700">30 Videos / Month</p>
-                    <p className="text-3xl font-bold text-blue-600">$1,000</p>
+                    <p className="text-3xl font-bold text-blue-600">$1,200</p>
                   </div>
                   <Link
                     href="mailto:collinjbbiz@gmail.com?subject=Interested%20in%20the%20Growth%20Plan%20-%20TikTok%20Shop"
@@ -133,7 +133,7 @@ export default function Component() {
                 <CardContent className="flex flex-col flex-grow justify-between text-center">
                   <div className="space-y-2 mb-6">
                     <p className="text-lg text-gray-700">20 Videos / Month</p>
-                    <p className="text-3xl font-bold text-blue-600">$700</p>
+                    <p className="text-3xl font-bold text-blue-600">$850</p>
                   </div>
                   <Link
                     href="mailto:collinjbbiz@gmail.com?subject=Interested%20in%20the%20Momentum%20Plan%20-%20TikTok%20Shop"
@@ -174,7 +174,7 @@ export default function Component() {
               <Card className="bg-red-50 rounded-xl shadow-md hover:shadow-lg transition-shadow duration-300">
                 <CardContent className="flex flex-col items-center space-y-4 p-6">
                   <img src="/images/money-wings-icon-green.gif" alt="Money with Wings" className="h-12 w-12" />
-                  <p className="text-4xl font-bold text-gray-900">$1M+</p>
+                  <p className="text-4xl font-bold text-gray-900">$1.5M+</p>
                   <p className="text-lg text-gray-700">GMV Generated</p>
                 </CardContent>
               </Card>
@@ -188,7 +188,7 @@ export default function Component() {
               <Card className="bg-blue-50 rounded-xl shadow-md hover:shadow-lg transition-shadow duration-300">
                 <CardContent className="flex flex-col items-center space-y-4 p-6">
                   <img src="/images/handshake-icon.gif" alt="Handshake" className="h-12 w-12" />
-                  <p className="text-4xl font-bold text-gray-900">14+</p>
+                  <p className="text-4xl font-bold text-gray-900">17+</p>
                   <p className="text-lg text-gray-700">Brands Scaled</p>
                 </CardContent>
               </Card>
