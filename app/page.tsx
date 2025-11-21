@@ -3,6 +3,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Check } from "lucide-react"
 import Link from "next/link"
+import Image from "next/image"
 
 export default function Component() {
   const includedItems = [
@@ -16,11 +17,23 @@ export default function Component() {
 
   return (
     <div className="flex flex-col min-h-screen bg-gray-50 text-gray-900">
+      <header className="w-full py-4 px-4 md:px-8 bg-white border-b border-gray-200">
+        <div className="container max-w-7xl mx-auto">
+          <Image
+            src="/images/collinjb-logo.png"
+            alt="CollinJB Media"
+            width={150}
+            height={150}
+            className="h-28 w-auto"
+          />
+        </div>
+      </header>
+
       <main className="flex-1">
         {/* Hero Section */}
         <section className="w-full py-6 md:py-12 lg:py-16 flex flex-col items-center justify-center text-center space-y-6 px-4">
           <Avatar className="w-32 h-32 md:w-40 md:h-40 shadow-sm">
-            <AvatarImage src="/images/collin-bexten-avatar-v3.png" alt="Collin Bexten" />
+            <AvatarImage src="/images/profile-headshot.png" alt="Collin B." />
           </Avatar>
           <div className="space-y-2">
             <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-gray-900">Collin B.</h1>
@@ -94,7 +107,9 @@ export default function Component() {
                     rel="noopener noreferrer"
                     className="w-full mt-auto"
                   >
-                    <Button className="w-full">Select Plan</Button>
+                    <Button className="w-full" style={{ backgroundColor: "#000d26" }}>
+                      Select Plan
+                    </Button>
                   </Link>
                 </CardContent>
               </Card>
@@ -119,7 +134,9 @@ export default function Component() {
                     rel="noopener noreferrer"
                     className="w-full mt-auto"
                   >
-                    <Button className="w-full">Select Plan</Button>
+                    <Button className="w-full" style={{ backgroundColor: "#000d26" }}>
+                      Select Plan
+                    </Button>
                   </Link>
                 </CardContent>
               </Card>
@@ -141,7 +158,9 @@ export default function Component() {
                     rel="noopener noreferrer"
                     className="w-full mt-auto"
                   >
-                    <Button className="w-full">Select Plan</Button>
+                    <Button className="w-full" style={{ backgroundColor: "#000d26" }}>
+                      Select Plan
+                    </Button>
                   </Link>
                 </CardContent>
               </Card>
@@ -198,7 +217,7 @@ export default function Component() {
       </main>
 
       {/* CTA Footer */}
-      <footer className="w-full py-8 md:py-10 lg:py-12 bg-slate-800 text-white px-4">
+      <footer className="w-full py-8 md:py-10 lg:py-12 text-white px-4" style={{ backgroundColor: "#000d26" }}>
         <div className="container max-w-3xl mx-auto text-center space-y-6">
           <h2 className="text-lg md:text-xl font-bold tracking-tight">
             If you're looking for a creator who understands TikTok Shop and can consistently deliver videos that drive

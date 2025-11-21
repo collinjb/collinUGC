@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   title: "Collin UGC",
   description: "Created by CollinJB",
   generator: "v0.dev",
+  icons: {
+    icon: "/favicon.ico",
+  },
 }
 
 export default function RootLayout({
