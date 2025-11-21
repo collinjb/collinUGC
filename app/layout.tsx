@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "Created by CollinJB",
   generator: "v0.dev",
   icons: {
-    icon: "/favicon.ico",
+    icon: "/public/favicon.ico",
   },
 }
 
