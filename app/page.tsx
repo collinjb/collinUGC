@@ -76,8 +76,8 @@ export default function Component() {
                 </p>
                 <p className="text-base md:text-lg text-gray-600 leading-relaxed">
                   More recently, I've moved into the social media marketing side, focusing specifically on TikTok Shop,
-                  where I've helped generate over 1.5 million dollars in revenue for brands in just 13 months. I
-                  specialized in short-form video and social-first strategies that drive real results, working with over
+                  where I've helped generate over 1.7 million dollars in revenue for brands in just 15 months. I
+                  specialize in short-form video and social-first strategies that drive real results, working with over
                   30 brands to produce trust-building, conversion-focused content.
                 </p>
               </CardContent>
@@ -193,21 +193,21 @@ export default function Component() {
               <Card className="bg-red-50 rounded-xl shadow-md hover:shadow-lg transition-shadow duration-300">
                 <CardContent className="flex flex-col items-center space-y-4 p-6">
                   <img src="/images/money-wings-icon-green.gif" alt="Money with Wings" className="h-12 w-12" />
-                  <p className="text-4xl font-bold text-gray-900">$1.5M+</p>
+                  <p className="text-4xl font-bold text-gray-900">$1.7M+</p>
                   <p className="text-lg text-gray-700">GMV Generated</p>
                 </CardContent>
               </Card>
               <Card className="bg-orange-50 rounded-xl shadow-md hover:shadow-lg transition-shadow duration-300">
                 <CardContent className="flex flex-col items-center space-y-4 p-6">
                   <img src="/images/clapper-icon.gif" alt="Film Clapperboard" className="h-12 w-12" />
-                  <p className="text-4xl font-bold text-gray-900">200M+</p>
+                  <p className="text-4xl font-bold text-gray-900">230M+</p>
                   <p className="text-lg text-gray-700">Total Views</p>
                 </CardContent>
               </Card>
               <Card className="bg-blue-50 rounded-xl shadow-md hover:shadow-lg transition-shadow duration-300">
                 <CardContent className="flex flex-col items-center space-y-4 p-6">
                   <img src="/images/handshake-icon.gif" alt="Handshake" className="h-12 w-12" />
-                  <p className="text-4xl font-bold text-gray-900">17+</p>
+                  <p className="text-4xl font-bold text-gray-900">22+</p>
                   <p className="text-lg text-gray-700">Brands Scaled</p>
                 </CardContent>
               </Card>
