@@ -70,7 +70,7 @@ export default function LandingPage() {
 
         {/* Top Performing Section */}
         <div className="w-full max-w-6xl mx-auto mt-20">
-          <h2 className="text-3xl md:text-4xl font-extrabold text-center mb-10">Top Performing</h2>
+          <h2 className="text-3xl md:text-4xl font-extrabold text-center mb-10">Top Performing Videos</h2>
           
           {/* Top Row - 3 videos */}
           <div className="flex flex-wrap justify-center gap-4 mb-4">
