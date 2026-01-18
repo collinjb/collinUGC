@@ -25,10 +25,11 @@ export default function LandingPage() {
 
   const topVideos = [
     "7494002922666200363",
-    "7377132943996669230",
     "7547492420816997645",
+    "7576809325268602167",
     "7563784946628791566",
     "7565549716608404791",
+    "7377132943996669230",
   ]
 
   return (
@@ -86,9 +87,9 @@ export default function LandingPage() {
             ))}
           </div>
           
-          {/* Bottom Row - 2 videos centered */}
+          {/* Bottom Row - 3 videos */}
           <div className="flex flex-wrap justify-center gap-4">
-            {topVideos.slice(3, 5).map((videoId) => (
+            {topVideos.slice(3, 6).map((videoId) => (
               <div key={videoId} className="w-full sm:w-[300px]">
                 <iframe
                   src={`https://www.tiktok.com/embed/v2/${videoId}`}
