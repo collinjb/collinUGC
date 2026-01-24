@@ -105,7 +105,7 @@ export default function MediaKit() {
                 <CardContent className="flex flex-col flex-grow justify-between text-center">
                   <div className="space-y-2 mb-6">
                     <p className="text-lg text-gray-300">10 Videos / Month</p>
-                    <p className="text-3xl font-bold text-white">$500</p>
+                    <p className="text-3xl font-bold text-white">$750</p>
                   </div>
                   <Link
                     href="mailto:collinjbbiz@gmail.com?subject=Interested%20in%20the%20Starter%20Plan%20-%20TikTok%20Shop"
@@ -145,7 +145,7 @@ export default function MediaKit() {
                 <CardContent className="flex flex-col flex-grow justify-between text-center">
                   <div className="space-y-2 mb-6">
                     <p className="text-lg text-gray-300">30 Videos / Month</p>
-                    <p className="text-3xl font-bold text-white">$1,200</p>
+                    <p className="text-3xl font-bold text-white">$2,000</p>
                   </div>
                   <Link
                     href="mailto:collinjbbiz@gmail.com?subject=Interested%20in%20the%20Growth%20Plan%20-%20TikTok%20Shop"
@@ -179,7 +179,7 @@ export default function MediaKit() {
                 <CardContent className="flex flex-col flex-grow justify-between text-center">
                   <div className="space-y-2 mb-6">
                     <p className="text-lg text-gray-300">20 Videos / Month</p>
-                    <p className="text-3xl font-bold text-white">$850</p>
+                    <p className="text-3xl font-bold text-white">$1,400</p>
                   </div>
                   <Link
                     href="mailto:collinjbbiz@gmail.com?subject=Interested%20in%20the%20Momentum%20Plan%20-%20TikTok%20Shop"
